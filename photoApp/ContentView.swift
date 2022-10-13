@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  photoApp
 //
-//  Created by 백찬우 on 2022/09/19.
+//  Created by 백찬우 on 2022/10/13.
 //
 
 import SwiftUI
@@ -12,9 +12,9 @@ import PhotosUI
 
 var images2 : [UIImage] = []
 
-
-let url_images = URL(string:"http://3.39.5.144:8000/images/")
 let url_images_string = "http://3.39.5.144:8000/images/"
+let url_images = URL(string:url_images_string)
+
 
 struct ContentView: View {
     

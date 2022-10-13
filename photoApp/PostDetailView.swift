@@ -2,7 +2,7 @@
 //  PostDetailView.swift
 //  photoApp
 //
-//  Created by 백찬우 on 2022/09/19.
+//  Created by 백찬우 on 2022/10/13.
 //
 
 import Foundation
@@ -71,9 +71,3 @@ struct PostDetailView: View {
         }.resume()
     }
 }
-
-//struct PostDetailView_Previews: PreviewProvider {
-//    static var previews: some View {
-//        PostDetailView(post: DropBox(id: 0, title: "title1", document: "document1"))
-//    }
-//}

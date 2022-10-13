@@ -2,7 +2,7 @@
 //  Post.swift
 //  photoApp
 //
-//  Created by 백찬우 on 2022/09/19.
+//  Created by 백찬우 on 2022/10/13.
 //
 
 import Foundation
